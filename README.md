@@ -1,2 +1,1 @@
-# c-function
-function examples in c
+# c-programming-examples
